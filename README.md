@@ -1,17 +1,7 @@
-
-
-    🔭 I’m currently :mortar_board: working on Find Hotels (react-app)
-
-    🌱 I’m currently learning React, Redux and Python
-
-    👨‍💻 All of my react projects are available at my portfolio
-
-
-
 <h1 align="center">Hi 👋, I'm Nitzan</h1>
 <h3 align="center">Junior developer and Computer Science & Physics student</h3>
 
-- ðŸ”­ Iâ€™m currently  "mortar_board" working on [Find Hotels](https://github.com/sapirMal/Find-Hotels) (react-app)
+- ⚡ Enthusiastic about cyber security, quantum computing, artificial intelligence and space
 
 - 🌱 I'm currently at the last semester of my B.Sc. in Computer Science & Physics degree at the Technion – Israel institute of Technology 
 
