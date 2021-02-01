@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Nitzan</h1>
 <h3 align="center">Junior developer and Computer Science & Physics student</h3>
 
-- ðŸ”­ Iâ€™m currently working on [Find Hotels](https://github.com/sapirMal/Find-Hotels) (react-app)
+- ðŸ”­ Iâ€™m currently  "mortar_board" working on [Find Hotels](https://github.com/sapirMal/Find-Hotels) (react-app)
 
 - 🌱 I'm currently at the last semester of my B.Sc. in Computer Science & Physics degree at the Technion – Israel institute of Technology 
 
