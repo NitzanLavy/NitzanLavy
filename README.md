@@ -15,8 +15,8 @@ hi hi
 
 
 
-<h1 align="center">Hi ðŸ‘‹, I'm Sapir</h1>
-<h3 align="center">Junior developer and Computer Science graduate</h3>
+<h1 align="center">Hi 👋, I'm Nitzan</h1>
+<h3 align="center">Junior developer and Computer Science & Physics student</h3>
 
 - ðŸ”­ Iâ€™m currently working on [Find Hotels](https://github.com/sapirMal/Find-Hotels) (react-app)
 
