@@ -14,7 +14,7 @@
 				 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" alt="C" width="40" height="40"/> </a> 
 				 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> 
 				 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"> <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" alt="Assembly" width="40" height="40"/> 
-				 </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="SQL" width="40" height="40"/> </a> 
+				 </a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/29/29165.png" alt="SQL" width="40" height="40"/> </a> 
 				</a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a> 
 </p>
 
