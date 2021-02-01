@@ -1,17 +1,10 @@
-Hi 👋, I'm Sapir
-Junior developer and Computer Science graduate
 
-    🔭 I’m currently working on Find Hotels (react-app)
+
+    🔭 I’m currently :mortar_board: working on Find Hotels (react-app)
 
     🌱 I’m currently learning React, Redux and Python
 
     👨‍💻 All of my react projects are available at my portfolio
-
-Languages and Tools:
-
-CSS3 firebase Git html5 java python react redux 
-
-hi hi
 
 
 
@@ -20,9 +13,9 @@ hi hi
 
 - ðŸ”­ Iâ€™m currently working on [Find Hotels](https://github.com/sapirMal/Find-Hotels) (react-app)
 
-- ðŸŒ± Iâ€™m currently learning **React, Redux and Python**
+- 🌱 I'm currently at the last semester of my B.Sc. in Computer Science & Physics degree at the Technion – Israel institute of Technology 
 
-- ðŸ‘¨â€ðŸ’» All of my react projects are available at [my portfolio](https://sapir14293.journoportfolio.com/)
+- 👨‍💻 All of my coding projects are available here
 
 
 <h3 align="left">Languages and Tools:</h3>
