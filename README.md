@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my coding projects are available here
 
+- :email: Feel free to leave a message or connect me on [LinkedIn](https://www.linkedin.com/in/nitzanlavy/)! 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
