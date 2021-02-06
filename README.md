@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently at the last semester of my B.Sc. in Computer Science & Physics degree at the Technion – Israel institute of Technology 
 
-- 👨‍💻 All of my coding projects are available here
+- 👨‍💻 All of my coding projects are available here :mortar_board:
 
 
 <h3 align="left">Languages and Tools:</h3>
