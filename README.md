@@ -3,9 +3,9 @@
 
 - ⚡ Enthusiastic about cyber security, quantum computing, artificial intelligence and space
 
-- 🌱 I'm currently at the last semester of my B.Sc. in Computer Science & Physics degree at the Technion – Israel institute of Technology 
+- :mortar_board: I'm currently at the last semester of my B.Sc. in Computer Science & Physics degree at the Technion – Israel institute of Technology 
 
-- 👨‍💻 All of my coding projects are available here :mortar_board:
+- 👨‍💻 All of my coding projects are available here
 
 
 <h3 align="left">Languages and Tools:</h3>
